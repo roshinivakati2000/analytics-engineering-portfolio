@@ -1,0 +1,7 @@
+*.duckdb
+*.csv
+*.parquet
+.env
+profiles.yml
+target/
+dbt_packages/
